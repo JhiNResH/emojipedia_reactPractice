@@ -1,2 +1,2 @@
 # emojipedia_reactPractice
-Created with CodeSandbox
+Ｍapping components practice with react
